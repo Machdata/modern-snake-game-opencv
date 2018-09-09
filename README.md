@@ -2,7 +2,7 @@
 
 - This is a modern snake game which can detect object of any color and will treat it as snake!
 - Based on open-cv and numpy.
-- You need a webcam and a object of any color to play (except black color).
+- You need a webcam and a object of any color to play (except black).
 - It has the ability input desired color from the user. Simply enter the color you want at runtime.
 - Full list of available Colors can be found here: [Colors](https://www.quackit.com/css/css_color_codes.cfm)
 
